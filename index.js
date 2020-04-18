@@ -1,6 +1,6 @@
 /**
  * In this github repository, I delete the implementation code, but I keep the completed code in my submitted ZIP file. 
- * Thank you :)
+ * Please check them in my submitted ZIP file. Thank you :)
  */
 addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
