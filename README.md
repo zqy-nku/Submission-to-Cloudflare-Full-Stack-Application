@@ -63,7 +63,7 @@ Uploaded the code to Greehouse with a "ZIP archive" of my project folder.
 **Original Link**
 https://github.com/cloudflare-internship-2020/internship-application-fullstack
 
-Thank you!
+Thank you
 
-Regards,
+
 Qingyu Zhu
