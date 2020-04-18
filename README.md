@@ -1,4 +1,4 @@
-# This is My Submission to Cloudflare Workers Internship Application: Full-Stack
+# Submission to Cloudflare Workers Internship Application: Full-Stack
 
 ## Application Demo
 
