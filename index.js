@@ -1,5 +1,5 @@
 /**
- * In this github repository, I delete the implementation code, but I keep the completed code in my submitted folder. 
+ * In this github repository, I delete the implementation code, but I keep the completed code in my submitted ZIP file. 
  * Thank you :)
  */
 addEventListener('fetch', event => {
