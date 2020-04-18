@@ -1,3 +1,5 @@
+// I delete information about account_id, route and zone_id in this github repository, but I keep them in my submitted ZIP file.
+// Please check them in my submitted ZIP file. Thank you :)
 name = "internship-assignment-cloudflare"
 type = "webpack"
 account_id = ""
