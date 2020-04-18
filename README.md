@@ -8,11 +8,11 @@ Please click [demo](https://internship-assignment-cloudflare.qingyuz.workers.dev
 
 ### 1. Get Family with Wrangler Environment
 
-#### 1.1 Install the workers command-line tool wrangler.
+1.1 Install the workers command-line tool wrangler.
 
-#### 1.2 Generate a new project using `wrangler generate` command
+1.2 Generate a new project using `wrangler generate` command
 
-#### 1.3 Use `wrangler dev` and `wrangler preview` to locally test/develop my application
+1.3 Use `wrangler dev` and `wrangler preview` to locally test/develop my application
 
 ### 2. Completed Basic Requirements
 
