@@ -1,20 +1,20 @@
-# My Submission to Cloudflare Workers Internship Application: Full-Stack
+# This is My Submission to Cloudflare Workers Internship Application: Full-Stack
 
 ## Application Demo
 
-Please click [demo](https://internship-assignment-cloudflare.qingyuz.workers.dev/) to see my application :)
+Please click my worker.dev subdomain [internship-assignment-cloudflare.qingyuz.workers.dev](https://internship-assignment-cloudflare.qingyuz.workers.dev/) or my domain [qingyuz.ml](https://qingyuz.ml/) to see my application.
 
-## What I've done?
+## What I Have Done?
 
-### 1. Got Family with Wrangler Environment
+### 1. Get Family with Wrangler Environment
 
-1.1 Installed the workers command-line tool wrangler.
+#### 1.1 Install the workers command-line tool wrangler.
 
-1.2 Generated a new project using `wrangler generate` command
+#### 1.2 Generate a new project using `wrangler generate` command
 
-1.3 Used `wrangler dev` and `wrangler preview` to locally test/develop my application
+#### 1.3 Use `wrangler dev` and `wrangler preview` to locally test/develop my application
 
-### 2. Completed Basic Requirements
+### 2. Complete Basic Requirements
 
 #### 2.1 Request the URLs from the API
 
@@ -24,13 +24,13 @@ Made a fetch request inside of my script's event handler to the URL `https://cfw
 
 Made a fetch request to one of the two URLs, and return it as the response from the script.
 
-#### 2.3 Distribut requests between variants
+#### 2.3 Distribute requests between variants
 
 When a client makes a request to the Workers script, the script will roughly return each variant around 50% of the time, in A/B testing style.
 
-### 3. Completed Extra Credit
+### 3. Complete Extra Credit
 
-#### 3.1 Chaging copy/URLs
+#### 3.1 Changing copy/URLs
 
 Used the [HTMLRewriter](https://developers.cloudflare.com/workers/reference/apis/html-rewriter/) API to change the following values insides of the variants:
 
@@ -43,7 +43,11 @@ Used the [HTMLRewriter](https://developers.cloudflare.com/workers/reference/apis
 
 Implemented persisting variants by creating a cookie. If a user visits the site and receives one of the two URLs, persist which URL is chosen in a cookie so that they always see the same variant when they return to the application.
 
-### 4. Deployed the Application
+#### 3.3 Publish to a domain
+
+Deployed my project by customizing the `zone_id` and `route` in my wrangler.toml. Published my application to [qingyuz.ml](https://qingyuz.ml/).
+
+### 4. Deployment the Application
 
 #### 4.1 Register a workers.dev subdomain
 
@@ -51,7 +55,7 @@ Setted up a workers.dev subdomain by following the Quick Start linked above.
 
 #### 4.2 A user should be able to visit the deployed version of the site
 
-Deployed my application and make it available under my workers.dev subdomain. Please check the [application](https://internship-assignment-cloudflare.qingyuz.workers.dev/).
+Deployed my application and make it available under my workers.dev subdomain. Please check the [application](https://internship-assignment-cloudflare.qingyuz.workers.dev/)
 
 ### 5. Submitted my project
 Uploaded the code to Greehouse with a "ZIP archive" of my project folder.
