@@ -1,5 +1,6 @@
 /**
- * In this github repositories, I delete the implementation code, but I keep the completed code in my submitted folder. Thank you :)
+ * In this github repository, I delete the implementation code, but I keep the completed code in my submitted folder. 
+ * Thank you :)
  */
 addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
