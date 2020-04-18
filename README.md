@@ -51,7 +51,7 @@ Setted up a workers.dev subdomain by following the Quick Start linked above.
 
 #### 4.2 A user should be able to visit the deployed version of the site
 
-Deployed my application and make it available under my workers.dev subdomain. Please check the [application](https://internship-assignment-cloudflare.qingyuz.workers.dev/)
+Deployed my application and make it available under my workers.dev subdomain. Please check the [application](https://internship-assignment-cloudflare.qingyuz.workers.dev/).
 
 ### 5. Submitted my project
 Uploaded the code to Greehouse with a "ZIP archive" of my project folder.
