@@ -2,7 +2,7 @@
 
 ## Application Demo
 
-Please click my [worker.dev subdomain](https://internship-assignment-cloudflare.qingyuz.workers.dev/) or my domain(https://qingyuz.ml/) to see my application.
+Please click my [worker.dev subdomain](https://internship-assignment-cloudflare.qingyuz.workers.dev/) or my [domain](https://qingyuz.ml/) to see my application.
 
 ## What I Have Done?
 
