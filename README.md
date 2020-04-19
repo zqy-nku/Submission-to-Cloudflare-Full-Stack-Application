@@ -66,4 +66,4 @@ https://github.com/cloudflare-internship-2020/internship-application-fullstack
 Thank you
 
 
-Qingyu Zhu
+Qingyu ZHU
